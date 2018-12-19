@@ -1,0 +1,43 @@
+#imaginary_container{
+    margin-top:5%;
+}
+.stylish-input-group .input-group-addon{
+    background: white !important;
+}
+.stylish-input-group button{
+    border:0;
+    background:transparent;
+}
+.bck{
+    background-color: #f4f4f7;
+}
+/* unvisited link */
+a:link {
+    color: #23527c;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: #23527c;
+    text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: #23527c;
+    text-decoration: none;
+}
+
+/* selected link */
+a:active {
+    color: #23527c;
+    text-decoration: none;
+}
+.qqw{
+
+    margin-top: 50px;
+}
+.oop{
+	margin-bottom: 10px;
+}
